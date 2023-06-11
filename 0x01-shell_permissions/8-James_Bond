@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo-(rw)-(r)+(wx)
+chmod ugo-(rw)-(r)+(wx) hello
